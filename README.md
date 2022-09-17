@@ -1,4 +1,4 @@
-# caipc-laberit-jul2022
+# caipc-Amarnath
 
 https://github.com/afoone/caipc-laberit-jul2022
 
